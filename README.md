@@ -9,6 +9,14 @@ I like a good, creative movie or tv show, and also playing some guittar or liste
 
 I really like playing with my son, as well 🧸🎈
 
+## Find me
+
+[Twitter](https://twitter.com/felipenmoura)  
+[LinkedIn](https://linkedin.com/in/felipenmoura)  
+[Personal Website](https://felipenmoura.com/)  
+[Youtube (BrazilJS)](https://youtube.com/braziljs)  
+[Twitch](https://www.twitch.tv/felipenmoura/about)
+
 ## Communities
 
 I really enjoy giving talks on Web Technologies, Communities or even more abstract, conceptual subjects.  
@@ -22,7 +30,7 @@ I am (and I enjoy it a lot) in many videos in our [**Youtube channel**](https://
 
 Also, I am a Google Developer Expert (GDE) in Web Technologies ([Profile](https://developers.google.com/community/experts/directory/profile/profile-felipe_nascimento_de_moura)).
 
-![BrazilJS's logo](https://github.com/felipenmoura/felipenmoura/blob/master/braziljs-logo.png?raw=true)
+<img src="https://github.com/felipenmoura/felipenmoura/blob/master/braziljs-logo.png?raw=true" width="200" alt="BrazilJS's logo" />
 
 ## Entrepreneurship
 
@@ -35,4 +43,19 @@ With On2 we could use those knowledges, contacts and skills to create new tools 
 
 I "was born in communities" and still love being part of them, doing my best to improve communities in both technological and humane sides.
 
-![On2 Logo](https://github.com/felipenmoura/felipenmoura/blob/master/on2-logo.png?raw=true)
+<img src="https://github.com/felipenmoura/felipenmoura/blob/master/on2-logo.png?raw=true" width="200" alt="On2 logo" />
+
+## Contributions
+
+Besides giving talks, writing content and producing events, demos and videos, I also like contributing to open source projects or opening some of my projects up for the communities 💪🏼🙂🍻
+
+Together we are strong!
+
+![Buy me a coffee](https://www.buymeacoffee.com/assets/img/bmc-meta-new/favicon-bg-96x96.png)  
+Want to [buy me a coffee](https://www.buymeacoffee.com/1xPnuAU)?
+
+## Personal Motto
+
+> Changing the world is the least I expect from myself.
+
+
