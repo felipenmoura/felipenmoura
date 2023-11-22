@@ -11,8 +11,9 @@ I really like playing with my son, as well 🧸🎈
 
 ## Find me
 
-[Twitter](https://twitter.com/felipenmoura)  
-[LinkedIn](https://linkedin.com/in/felipenmoura)  
+Twitter: [@felipenmoura](https://twitter.com/felipenmoura)  
+Instagram[@felipendemoura](https://www.instagram.com/felipendemoura)  << there's a "de" here, different than other accounts
+LinkedIn: [@felipenmoura](https://linkedin.com/in/felipenmoura)  
 [Personal Website](https://felipenmoura.com/)  
 [Youtube (BrazilJS)](https://youtube.com/braziljs)  
 [Twitch](https://www.twitch.tv/felipenmoura/about)
